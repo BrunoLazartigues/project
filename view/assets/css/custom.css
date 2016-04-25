@@ -1,0 +1,14 @@
+div.left-panel {
+	height:80%;
+	background-color: blue;
+}
+
+div.right-panel {
+	height:80%;
+	background-color: green;
+}
+
+div.bottom-panel {
+	height:20%;
+	background-color: red;
+}
